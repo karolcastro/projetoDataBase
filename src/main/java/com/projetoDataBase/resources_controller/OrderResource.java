@@ -1,9 +1,7 @@
-package com.projetoDataBase.resources;
+package com.projetoDataBase.resources_controller;
 
 import com.projetoDataBase.entities.Order;
-import com.projetoDataBase.entities.User;
 import com.projetoDataBase.services.OrderService;
-import com.projetoDataBase.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

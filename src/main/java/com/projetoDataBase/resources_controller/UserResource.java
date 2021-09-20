@@ -1,4 +1,4 @@
-package com.projetoDataBase.resources;
+package com.projetoDataBase.resources_controller;
 
 import com.projetoDataBase.entities.User;
 import com.projetoDataBase.services.UserService;
