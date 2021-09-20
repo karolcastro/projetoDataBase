@@ -1,7 +1,6 @@
 package com.projetoDataBase.services;
 
 import com.projetoDataBase.entities.Order;
-import com.projetoDataBase.entities.User;
 import com.projetoDataBase.repositories.OrderRepository;
 import com.projetoDataBase.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
